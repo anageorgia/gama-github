@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Repository for git class by gama academy/luiza code program
+> Repository for Git class by Gama Academy/Luiza<code> program.
 
 ## Author
 
